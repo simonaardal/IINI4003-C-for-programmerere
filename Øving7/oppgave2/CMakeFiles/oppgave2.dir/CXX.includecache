@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/simon/Dokumenter/IINI4003 C++ for programmerere/Øving7/oppgave2/set.cpp
+cmath
+-
+iostream
+-
+sstream
+-
+string
+-
+vector
+-
+set.hpp
+/home/simon/Dokumenter/IINI4003 C++ for programmerere/Øving7/oppgave2/set.hpp
+
+/home/simon/Dokumenter/IINI4003 C++ for programmerere/Øving7/oppgave2/set.hpp
+vector
+-
+

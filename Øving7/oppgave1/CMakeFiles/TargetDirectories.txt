@@ -1,0 +1,3 @@
+/home/simon/Dokumenter/IINI4003 C++ for programmerere/Øving7/oppgave1/CMakeFiles/rebuild_cache.dir
+/home/simon/Dokumenter/IINI4003 C++ for programmerere/Øving7/oppgave1/CMakeFiles/edit_cache.dir
+/home/simon/Dokumenter/IINI4003 C++ for programmerere/Øving7/oppgave1/CMakeFiles/oppgave1.dir

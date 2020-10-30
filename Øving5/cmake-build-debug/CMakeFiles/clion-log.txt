@@ -1,0 +1,9 @@
+/opt/clion-2019.3.3/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/home/simon/Desktop/IINI4003 C++ for programmerere/Øving5"
+CMake Error at CMakeLists.txt:6 (add_executable):
+  The target name "Øving5" is reserved or not valid for certain CMake
+  features, such as generator expressions, and may result in undefined
+  behavior.
+
+
+-- Configuring incomplete, errors occurred!
+See also "/home/simon/Desktop/IINI4003 C++ for programmerere/Øving5/cmake-build-debug/CMakeFiles/CMakeOutput.log".

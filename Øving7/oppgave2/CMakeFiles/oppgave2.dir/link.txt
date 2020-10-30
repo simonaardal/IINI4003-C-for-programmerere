@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/oppgave2.dir/set.cpp.o CMakeFiles/oppgave2.dir/main.cpp.o  -o oppgave2 

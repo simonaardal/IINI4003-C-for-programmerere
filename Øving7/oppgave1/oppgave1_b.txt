@@ -1,0 +1,5 @@
+1) 5 - 3 = 2
+2) 2 - fraction1 = svar1 (integer - Fraction), returnerer Fraction objekt
+3) svar1 - 7 = svar2 (Fraction - integer) returnerer Fraction object
+4) svar2 - fraction2 = svar3 returnerer Fraction object
+

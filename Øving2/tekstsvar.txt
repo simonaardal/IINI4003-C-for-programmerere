@@ -1,0 +1,21 @@
+Oppgave 1 b)
+
+i = 7, 
+q = 5 + 4 = 9, 
+q = 7 + 1 = 8, 
+p peker på samme som q, altså på j. 
+
+utskrift: "8 8"
+
+
+Oppgave 2
+
+Ettersom line er en nullpointer, vil programmet ikke sette av nødvendig plass til å holde på strengen som skal bli kopiert over. 
+
+Oppgave 3
+
+1) Teksten som blir skrevet inn er lenger enn 5 bokstaver. 
+2) Alle bokstavene i strengen blir endret til 'e'. 
+3) Løkken går utenfor området til char-tabellen som kun inneholder 5 elementer. 
+
+

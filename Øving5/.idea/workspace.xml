@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="Øving5" targetName="oppgave1" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7945ee68-128c-4572-82d1-4c631277de4a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1hund49JRCNRJcZDXWRzYiIzUTa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="oppgave1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Øving5" TARGET_NAME="oppgave1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Øving5" RUN_TARGET_NAME="oppgave1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7945ee68-128c-4572-82d1-4c631277de4a" name="Default Changelist" comment="" />
+      <created>1600869928263</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600869928263</updated>
+      <workItem from="1600869930091" duration="144000" />
+      <workItem from="1600870075469" duration="13000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="848" y="303" width="424" height="491" key="FileChooserDialogImpl" timestamp="1600870070383">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="848" y="303" width="424" height="491" key="FileChooserDialogImpl/72.27.1848.1053@72.27.1848.1053" timestamp="1600870070383" />
+    <state width="640" height="204" key="ImportCMakeProjectWizard.bottomPanel" timestamp="1600870072494">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="640" height="204" key="ImportCMakeProjectWizard.bottomPanel/72.27.1848.1053@72.27.1848.1053" timestamp="1600870072494" />
+    <state width="640" height="476" key="ImportCMakeProjectWizard.topPanel" timestamp="1600870072493">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="640" height="476" key="ImportCMakeProjectWizard.topPanel/72.27.1848.1053@72.27.1848.1053" timestamp="1600870072493" />
+  </component>
+</project>
